@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net7.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Update="FirstForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="SecondForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="ThirdForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+      <Compile Update="FourthForm.cs">
+        <SubType>Form</SubType>
+      </Compile>
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\bin\Debug\net7.0\Floyd Algorithm.exe
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\bin\Debug\net7.0\Floyd Algorithm.deps.json
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\bin\Debug\net7.0\Floyd Algorithm.runtimeconfig.json
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\bin\Debug\net7.0\Floyd Algorithm.dll
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\bin\Debug\net7.0\Floyd Algorithm.pdb
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\obj\Debug\net7.0\Floyd Algorithm.csproj.AssemblyReference.cache
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\obj\Debug\net7.0\Floyd Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\obj\Debug\net7.0\Floyd Algorithm.AssemblyInfoInputs.cache
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\obj\Debug\net7.0\Floyd Algorithm.AssemblyInfo.cs
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\obj\Debug\net7.0\Floyd Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\obj\Debug\net7.0\Floyd Algorithm.dll
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\obj\Debug\net7.0\refint\Floyd Algorithm.dll
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\obj\Debug\net7.0\Floyd Algorithm.pdb
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\obj\Debug\net7.0\Floyd Algorithm.genruntimeconfig.cache
+C:\Users\newme\RiderProjects\PaSQ.SA\Task5\Floyd Algorithm\obj\Debug\net7.0\ref\Floyd Algorithm.dll

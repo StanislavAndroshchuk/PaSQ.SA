@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\newme\\RiderProjects\\PaSQ.SA\\Task5\\Floyd Algorithm\\Floyd Algorithm.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\newme\\RiderProjects\\PaSQ.SA\\Task5\\Floyd Algorithm\\Floyd Algorithm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\newme\\RiderProjects\\PaSQ.SA\\Task5\\Floyd Algorithm\\Floyd Algorithm.csproj",
+        "projectName": "Floyd Algorithm",
+        "projectPath": "C:\\Users\\newme\\RiderProjects\\PaSQ.SA\\Task5\\Floyd Algorithm\\Floyd Algorithm.csproj",
+        "packagesPath": "C:\\Users\\newme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\newme\\RiderProjects\\PaSQ.SA\\Task5\\Floyd Algorithm\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\newme\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Linq.Parallel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Threading.Tasks.Parallel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\newme\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

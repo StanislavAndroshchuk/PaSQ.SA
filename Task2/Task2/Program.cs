@@ -217,10 +217,10 @@ public static class Program
         stopwatchSecond.Stop();
         Console.WriteLine("Result of multiplying of two matrix:\n");
         //PrintMatrix(parallelMatrix);
-        long elapsedMillisecondsSecond = stopwatchSecond.ElapsedMilliseconds; 
+        double elapsedMillisecondsSecond = stopwatchSecond.ElapsedMilliseconds; 
         Console.WriteLine($"Time taken to multiply two matrix by parallel method: {elapsedMillisecondsSecond}... milliseconds");
 
-        long speedUp = elapsedMillisecondsFirst / elapsedMillisecondsSecond;
+        double speedUp = elapsedMillisecondsFirst / elapsedMillisecondsSecond;
         double efficiency = (double)speedUp / k;
         
         Console.WriteLine($"SpeedUp of method is : {speedUp}");
